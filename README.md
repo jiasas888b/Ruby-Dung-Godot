@@ -3,8 +3,4 @@
 
 ### For Android 7.0+
 
-this is a program to made Ruby Dung in Godot 4 Engine
-
-thus is Ruby Dung Godot clone 
-
-this is made by my Xiaomi Pad
+this is a Ruby Dung game clone program but in Godot engine
